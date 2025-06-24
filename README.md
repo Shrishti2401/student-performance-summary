@@ -1,13 +1,13 @@
 # 🎓 Student Performance Intelligence Dashboard – EdTech Analytics
 
 This project simulates a real-time analytics solution for an EdTech coaching institute, focused on JEE, BITSAT, Advance, and EAMCET exam performance. The objective was to identify student performance patterns, spot academic risks, and deliver predictive insights to guide intervention and strategy.
+---
 
---
 
 ## 📌 Project Summary
 
 Led end-to-end analysis of a real EdTech coaching dataset covering 53 exams and 300+ students, using Python for data cleaning and consolidation, and SQL to engineer band logic, thresholds, and performance flags. Developed 4 interactive Tableau dashboards to track academic trends, subject-level strengths, and student participation. Integrated a Python-based regression model to predict JEE scores and identify hidden performance shifts. Delivered insights that flagged 43 at-risk students for academic intervention and surfaced 4 high-potential students for accelerated support — empowering data-driven decisions for coaching leadership.
---
+---
 
 ## 🛠 Tools Used
 
@@ -19,7 +19,8 @@ Led end-to-end analysis of a real EdTech coaching dataset covering 53 exams and 
 
 - Excel – initial dataset standardization and import management
 
---
+
+
 
 ## 📊 Key Metrics Tracked
 
@@ -62,8 +63,9 @@ Led end-to-end analysis of a real EdTech coaching dataset covering 53 exams and 
 🟡 Medium = 120–179
 
 🔴 Low < 120
+---
 
---
+
 
 
 ## 📊 Dashboards Overview
@@ -89,6 +91,8 @@ Led end-to-end analysis of a real EdTech coaching dataset covering 53 exams and 
 - Predicted vs Avg marks, Score Gap
 
 - Risk Flags, Prediction Bands, Insight Summary per student
+---
+
 
 
 
