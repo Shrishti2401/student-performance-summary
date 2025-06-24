@@ -60,11 +60,11 @@ Led end-to-end analysis of a real EdTech coaching dataset covering 53 exams and 
 
 #### 🎯 Prediction Band:
 
-🟢 High ≥ 180
+- 🟢 High ≥ 180
 
-🟡 Medium = 120–179
+- 🟡 Medium = 120–179
 
-🔴 Low < 120
+- 🔴 Low < 120
 
 
 
