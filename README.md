@@ -1,4 +1,5 @@
 # 🎓 Student Performance Intelligence Dashboard – EdTech Analytics
+[Click Here](Student_Performance_Analytics_Notebook.ipynb)
 
 
 
