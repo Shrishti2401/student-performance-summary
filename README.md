@@ -1,7 +1,9 @@
 # 🎓 Student Performance Intelligence Dashboard – EdTech Analytics
 > ⚠️ **Note:** This project uses anonymized and simulated data for demonstration purposes only. No real student or institutional data has been shared to maintain confidentiality.
 
-### [Click Here For Detailed View](Student_Performance_Analytics_Notebook.ipynb)
+## 🔍 Project Walkthrough
+
+### 🚀 [Explore the full Analysis](Student_Performance_Analytics_Notebook.ipynb)
 
 
 
