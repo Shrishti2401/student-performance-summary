@@ -1,13 +1,13 @@
 # 🎓 Student Performance Intelligence Dashboard – EdTech Analytics
 > ⚠️ **Note:** This project uses anonymized and simulated data for demonstration purposes only. No real student or institutional data has been shared to maintain confidentiality.
 
-
+### [Click Here For Detailed View](Student_Performance_Analytics_Notebook.ipynb)
 
 
 
 
 This project simulates a real-time analytics solution for an EdTech coaching institute, focused on JEE, BITSAT, Advance, and EAMCET exam performance. The objective was to identify student performance patterns, spot academic risks, and deliver predictive insights to guide intervention and strategy.
-[Click Here](Student_Performance_Analytics_Notebook.ipynb)
+
 
 
 ## 📌 Project Summary
